@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">艦じしょ</string>
+    <string name="kankore">艦これ</string>
+    <string name="up">上へ</string>
+    <string name="search_result">検索結果：</string>
+    <string name="prefix_clip">クリップボードにコピーしました：</string>
+    
+</resources>
