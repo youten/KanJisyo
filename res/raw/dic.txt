@@ -58,7 +58,8 @@
 			{"kanji":"不知火","yomi":"しらぬい"},
 			{"kanji":"黒潮","yomi":"くろしお"},
 			{"kanji":"雪風","yomi":"ゆきかぜ"},
-			{"kanji":"舞風","yomi":"まいかぜ"}
+			{"kanji":"舞風","yomi":"まいかぜ"},
+			{"kanji":"初風","yomi":"はつかぜ"}
 		],
 		[
 			{"kanji":"軽巡洋艦","group":true},
