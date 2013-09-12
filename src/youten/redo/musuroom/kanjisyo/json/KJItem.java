@@ -13,6 +13,9 @@ public class KJItem {
     @SerializedName("yomi")
     public String yomi = "";
 
+    @SerializedName("yomi2")
+    public String yomi2 = "";
+
     @SerializedName("desc")
     public String desc = "";
 }
