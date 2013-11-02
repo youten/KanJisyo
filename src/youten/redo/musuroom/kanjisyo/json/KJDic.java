@@ -29,7 +29,8 @@ public class KJDic {
 			for (List<KJItem> group : dic) {
 				for (KJItem item : group) {
 					if ((item.yomi.indexOf(keyword) != -1)
-							|| (item.yomi2.indexOf(keyword) != -1)) {
+							|| (item.yomi2.indexOf(keyword) != -1)
+							|| (item.yomi3.indexOf(keyword) != -1)) {
 						ret.add(item.kanji);
 					}
 				}

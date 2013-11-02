@@ -90,7 +90,9 @@
 			{"kanji":"川内","yomi":"せんだい"},
 			{"kanji":"神通","yomi":"じんつう"},
 			{"kanji":"那珂","yomi":"なか"},
-			{"kanji":"夕張","yomi":"ゆうばり"}
+			{"kanji":"夕張","yomi":"ゆうばり"},
+			{"kanji":"阿賀野","yomi":"あがの"},
+			{"kanji":"能代","yomi":"のしろ"}
 		],
 		[
 			{"kanji":"重雷装巡洋艦","group":true},
@@ -112,14 +114,14 @@
 			{"kanji":"鳥海","yomi":"ちょうかい"},
 			{"kanji":"利根","yomi":"とね"},
 			{"kanji":"筑摩","yomi":"ちくま"},
-			{"kanji":"三隈","yomi":"みくま"},
-			{"kanji":"衣笠","yomi":"きぬがさ"},
-			{"kanji":"熊野","yomi":"くまの"},
-			{"kanji":"鈴谷","yomi":"すずや"}
+			{"kanji":"衣笠","yomi":"きぬがさ"}
 		],
 		[
 			{"kanji":"航空巡洋艦","group":true},
-			{"kanji":"最上","yomi":"もがみ"}
+			{"kanji":"最上","yomi":"もがみ"},
+			{"kanji":"三隈","yomi":"みくま"},
+			{"kanji":"鈴谷","yomi":"すずや"},
+			{"kanji":"熊野","yomi":"くまの"}
 		],
 		[
 			{"kanji":"戦艦","group":true},
@@ -129,7 +131,8 @@
 			{"kanji":"比叡","yomi":"ひえい"},
 			{"kanji":"榛名","yomi":"はるな"},
 			{"kanji":"霧島","yomi":"きりしま"},
-			{"kanji":"大和","yomi":"やまと"}
+			{"kanji":"大和","yomi":"やまと"},
+			{"kanji":"武蔵","yomi":"むさし"}
 		],
 		[
 			{"kanji":"航空戦艦","group":true},
@@ -166,7 +169,9 @@
 		[
 			{"kanji":"潜水艦","group":true},
 			{"kanji":"伊168","yomi":"いむや"},
-			{"kanji":"伊58","yomi":"ごーや"}
+			{"kanji":"伊58","yomi":"ごーや"},
+			{"kanji":"伊19","yomi":"いく"},
+			{"kanji":"伊8","yomi":"いはち","yomi2":"はち"}
 		]
 	]
 }
