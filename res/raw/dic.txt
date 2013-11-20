@@ -92,7 +92,8 @@
 			{"kanji":"那珂","yomi":"なか"},
 			{"kanji":"夕張","yomi":"ゆうばり"},
 			{"kanji":"阿賀野","yomi":"あがの"},
-			{"kanji":"能代","yomi":"のしろ"}
+			{"kanji":"能代","yomi":"のしろ"},
+			{"kanji":"矢矧","yomi":"やはぎ"}
 		],
 		[
 			{"kanji":"重雷装巡洋艦","group":true},
