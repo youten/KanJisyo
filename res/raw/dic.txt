@@ -174,7 +174,8 @@
 			{"kanji":"伊58","yomi":"ごーや"},
 			{"kanji":"伊19","yomi":"いく"},
 			{"kanji":"伊8","yomi":"いはち","yomi2":"はち"},
-			{"kanji":"まるゆ","yomi":"まるゆ"}
+			{"kanji":"まるゆ","yomi":"まるゆ"},
+			{"kanji":"伊401","yomi":"しおい"}
 		],
 		[
 			{"kanji":"揚陸艦","group":true},
