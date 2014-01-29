@@ -72,7 +72,9 @@
 			{"kanji":"夕雲","yomi":"ゆうぐも"},
 			{"kanji":"秋雲","yomi":"あきぐも"},
 			{"kanji":"巻雲","yomi":"まきぐも"},
-			{"kanji":"長波","yomi":"ながなみ"}
+			{"kanji":"長波","yomi":"ながなみ"},
+			{"kanji":"弥生","yomi":"やよい"},
+			{"kanji":"卯月","yomi":"うづき"}
 		],
 		[
 			{"kanji":"軽巡洋艦","group":true},
