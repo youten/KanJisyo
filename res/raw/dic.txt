@@ -80,7 +80,12 @@
 			{"kanji":"浜風","yomi":"はまかぜ"},
 			{"kanji":"天津風","yomi":"あまつかぜ"},
 			{"kanji":"谷風","yomi":"たにかぜ"},
-			{"kanji":"浦風","yomi":"うらかぜ"}
+			{"kanji":"浦風","yomi":"うらかぜ"},
+			{"kanji":"春雨","yomi":"はるさめ"},
+			{"kanji":"時津風","yomi":"ときつかぜ"},
+			{"kanji":"早霜","yomi":"はやしも"},
+			{"kanji":"清霜","yomi":"きよしも"},
+			{"kanji":"磯風","yomi":"いそかぜ"}
 		],
 		[
 			{"kanji":"軽巡洋艦","group":true},
@@ -102,7 +107,8 @@
 			{"kanji":"阿賀野","yomi":"あがの"},
 			{"kanji":"能代","yomi":"のしろ"},
 			{"kanji":"矢矧","yomi":"やはぎ"},
-			{"kanji":"酒匂","yomi":"さかわ"}
+			{"kanji":"酒匂","yomi":"さかわ"},
+			{"kanji":"大淀","yomi":"おおよど"}
 		],
 		[
 			{"kanji":"重雷装巡洋艦","group":true},
@@ -177,7 +183,8 @@
 			{"kanji":"飛龍","yomi":"ひりゅう"},
 			{"kanji":"翔鶴","yomi":"しょうかく"},
 			{"kanji":"瑞鶴","yomi":"ずいかく"},
-			{"kanji":"大鳳","yomi":"たいほう"}
+			{"kanji":"大鳳","yomi":"たいほう"},
+			{"kanji":"雲龍","yomi":"うんりゅう"}
 		],
 		[
 			{"kanji":"潜水艦","group":true},
