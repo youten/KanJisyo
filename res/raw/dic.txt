@@ -107,7 +107,8 @@
 			{"kanji":"清霜","yomi":"きよしも"},
 			{"kanji":"磯風","yomi":"いそかぜ"},
 			{"kanji":"野分","yomi":"のわき"},
-			{"kanji":"朝雲","yomi":"あさぐも"}
+			{"kanji":"朝雲","yomi":"あさぐも"},
+			{"kanji":"山雲","yomi":"やまぐも"}
 		],
 		[
 			{"kanji":"防空駆逐艦","group":true},
