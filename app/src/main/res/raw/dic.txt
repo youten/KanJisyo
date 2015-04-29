@@ -109,7 +109,8 @@
 			{"kanji":"野分","yomi":"のわき"},
 			{"kanji":"朝雲","yomi":"あさぐも"},
 			{"kanji":"山雲","yomi":"やまぐも"},
-			{"kanji":"朝霜","yomi":"あさしも"}
+			{"kanji":"朝霜","yomi":"あさしも"},
+			{"kanji":"高波","yomi":"たかなみ"}
 		],
 		[
 			{"kanji":"防空駆逐艦","group":true},
@@ -182,7 +183,10 @@
 			{"kanji":"霧島","yomi":"きりしま"},
 			{"kanji":"大和","yomi":"やまと"},
 			{"kanji":"武蔵","yomi":"むさし"},
-			{"kanji":"Bismarck","yomi":"びすまるく"}
+			{"kanji":"Bismarck","yomi":"びすまるく"},
+			{"kanji":"Littorio","yomi":"りっとりお"},
+			{"kanji":"Italia","yomi":"いたりあ"},
+			{"kanji":"Roma","yomi":"ろーま"}
 		],
 		[
 			{"kanji":"航空戦艦","group":true},
@@ -194,7 +198,8 @@
 		[
 			{"kanji":"水上機母艦","group":true},
 			{"kanji":"千歳甲","yomi":"ちとせ"},
-			{"kanji":"千代田甲","yomi":"ちよだ"}
+			{"kanji":"千代田甲","yomi":"ちよだ"},
+			{"kanji":"秋津洲","yomi":"あきつしま"}
 		],
 		[
 			{"kanji":"軽空母","group":true},
@@ -218,19 +223,20 @@
 			{"kanji":"瑞鶴","yomi":"ずいかく"},
 			{"kanji":"大鳳","yomi":"たいほう"},
 			{"kanji":"雲龍","yomi":"うんりゅう"},
-			{"kanji":"天城","yomi":"あまぎ"}
+			{"kanji":"天城","yomi":"あまぎ"},
+			{"kanji":"葛城","yomi":"かつらぎ"}
 		],
 		[
 			{"kanji":"潜水艦","group":true},
 			{"kanji":"伊168","yomi":"いむや"},
-			{"kanji":"伊58","yomi":"ごーや"},
+			{"kanji":"伊58","yomi":"ごーや","yomi2":"でち"},
 			{"kanji":"伊19","yomi":"いく"},
 			{"kanji":"伊8","yomi":"いはち","yomi2":"はち"},
 			{"kanji":"まるゆ","yomi":"まるゆ"},
 			{"kanji":"伊401","yomi":"しおい"},
 			{"kanji":"大鯨","yomi":"たいげい"},
-			{"kanji":"U-511","yomi":"さつきいちごう","yomi":"ゆー"},
-			{"kanji":"呂500","yomi":"ろごひゃく"}
+			{"kanji":"U-511","yomi":"さつきいちごう","yomi2":"ゆー"},
+			{"kanji":"呂500","yomi":"ろごひゃく","yomi2":"ろー"}
 		],
 		[
 			{"kanji":"揚陸艦","group":true},
