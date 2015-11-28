@@ -37,7 +37,8 @@
             {"kanji":"潜水空母","yomi":"せんすいくうぼ"},
             {"kanji":"潜水母艦","yomi":"せんすいぼかん"},
             {"kanji":"装甲空母","yomi":"そうこうくうぼ"},
-            {"kanji":"揚陸艦","yomi":"ようりくかん"}
+            {"kanji":"揚陸艦","yomi":"ようりくかん"},
+            {"kanji":"練習巡洋艦","yomi":"れんしゅうじゅんようかん"}
         ],
         [
             {"kanji":"駆逐艦","group":true},
@@ -117,7 +118,9 @@
             {"kanji":"海風","yomi":"うみかぜ"},
             {"kanji":"江風","yomi":"かわかぜ"},
             {"kanji":"風雲","yomi":"かざぐも"},
-            {"kanji":"Libeccio","yomi":りべっちお","yomi2":"リベッチオ"}
+            {"kanji":"Libeccio","yomi":りべっちお","yomi2":"リベッチオ"},
+            {"kanji":"嵐","yomi":"あらし"},
+            {"kanji":"萩風","yomi":"はぎかぜ"}
         ],
         [
             {"kanji":"軽巡洋艦","group":true},
@@ -144,7 +147,8 @@
         ],
         [
             {"kanji":"練習巡洋艦","group":true},
-            {"kanji":"香取","yomi":"かとり"}
+            {"kanji":"香取","yomi":"かとり"},
+            {"kanji":"鹿島","yomi":"かしま"}
         ],
         [
             {"kanji":"重雷装巡洋艦","group":true},
@@ -228,7 +232,8 @@
             {"kanji":"大鳳","yomi":"たいほう"},
             {"kanji":"雲龍","yomi":"うんりゅう"},
             {"kanji":"天城","yomi":"あまぎ"},
-            {"kanji":"葛城","yomi":"かつらぎ"}
+            {"kanji":"葛城","yomi":"かつらぎ"},
+            {"kanji":"Graf Zeppelin","yomi":"ぐらーふつぇっぺりん","yomi2":"グラーフ・ツェッペリン"}
         ],
         [
             {"kanji":"潜水艦","group":true},
