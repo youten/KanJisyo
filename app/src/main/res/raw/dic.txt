@@ -120,7 +120,9 @@
             {"kanji":"風雲","yomi":"かざぐも"},
             {"kanji":"Libeccio","yomi":りべっちお","yomi2":"リベッチオ"},
             {"kanji":"嵐","yomi":"あらし"},
-            {"kanji":"萩風","yomi":"はぎかぜ"}
+            {"kanji":"萩風","yomi":"はぎかぜ"},
+            {"kanji":"初月","yomi":"はつづき"},
+            {"kanji":"沖波","yomi":"おきなみ"}
         ],
         [
             {"kanji":"軽巡洋艦","group":true},
@@ -171,7 +173,8 @@
             {"kanji":"利根","yomi":"とね"},
             {"kanji":"筑摩","yomi":"ちくま"},
             {"kanji":"衣笠","yomi":"きぬがさ"},
-            {"kanji":"Prinz Eugen","yomi":"ぷりんつおいげん","yomi2":"プリンツ・オイゲン"}
+            {"kanji":"Prinz Eugen","yomi":"ぷりんつおいげん","yomi2":"プリンツ・オイゲン"},
+            {"kanji":"Zara","yomi":"ざら","yomi2":"ザラ"}
         ],
         [
             {"kanji":"航空巡洋艦","group":true},
