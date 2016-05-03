@@ -1,5 +1,9 @@
 package youten.redo.musuroom.kanjisyo.json;
 
+import android.content.res.Resources;
+
+import com.google.gson.Gson;
+
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.io.UnsupportedEncodingException;
@@ -8,30 +12,26 @@ import java.util.List;
 
 import youten.redo.musuroom.kanjisyo.R;
 
-import android.content.res.Resources;
-
-import com.google.gson.Gson;
-import com.google.gson.annotations.SerializedName;
-
 /**
- * 艦じしょ<br>
+ * 艦じしょ Dictionary
  */
 public class KJDic {
-	@SerializedName("groups")
 	public List<String> groups = new ArrayList<String>();
 
-	@SerializedName("dic")
 	public List<List<KJItem>> dic = new ArrayList<List<KJItem>>();
 
 	public List<String> search(String keyword) {
 		List<String> ret = new ArrayList<String>();
-		if (keyword != null) {
-			for (List<KJItem> group : dic) {
-				for (KJItem item : group) {
-					if ((item.yomi.indexOf(keyword) != -1)
-							|| (item.yomi2.indexOf(keyword) != -1)
-							|| (item.yomi3.indexOf(keyword) != -1)) {
-						ret.add(item.kanji);
+		if (keyword == null) {
+			return ret;
+		}
+		for (List<KJItem> group : dic) {
+			for (KJItem item : group) {
+				if (item.yomi.length > 0) {
+					for(String yomi1 : item.yomi) {
+						if (yomi1.indexOf(keyword) != -1) {
+							ret.add(item.kanji);
+						}
 					}
 				}
 			}

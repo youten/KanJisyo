@@ -1,10 +1,5 @@
 package youten.redo.musuroom.kanjisyo;
 
-import java.util.ArrayList;
-import java.util.List;
-
-import youten.redo.musuroom.kanjisyo.json.KJDic;
-import youten.redo.musuroom.kanjisyo.json.KJItem;
 import android.annotation.SuppressLint;
 import android.app.Activity;
 import android.content.ClipData;
@@ -22,6 +17,15 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import java.util.ArrayList;
+import java.util.List;
+
+import youten.redo.musuroom.kanjisyo.json.KJDic;
+import youten.redo.musuroom.kanjisyo.json.KJItem;
+
+/**
+ * Main Activity
+ */
 public class MainActivity extends Activity {
 	private static final String TAG = "Kanjisyo:Main";
 	private static final String ACTION_INTERCEPT = "com.adamrocker.android.simeji.ACTION_INTERCEPT";

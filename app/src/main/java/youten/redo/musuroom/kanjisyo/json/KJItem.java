@@ -1,24 +1,15 @@
 
 package youten.redo.musuroom.kanjisyo.json;
 
-import com.google.gson.annotations.SerializedName;
-
+/**
+ * 艦じしょItem
+ */
 public class KJItem {
-    @SerializedName("group")
     public boolean group = false;
 
-    @SerializedName("kanji")
     public String kanji = "";
 
-    @SerializedName("yomi")
-    public String yomi = "";
+    public String[] yomi = {""};
 
-    @SerializedName("yomi2")
-    public String yomi2 = "";
-
-    @SerializedName("yomi3")
-    public String yomi3 = "";
-
-    @SerializedName("desc")
     public String desc = "";
 }
