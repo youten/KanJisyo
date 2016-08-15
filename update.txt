@@ -26,3 +26,4 @@ v23.0 萩風・嵐・Graf Zeppelin・鹿島を追加。
 v24.0 初月・沖波・Zaraを追加。
 v25.0 深海棲艦を追加。
 v26.0 神風・春風・親潮・Pola・Iowaを追加。
+v27.0 Warspite・Aquila・伊26・水無月・深海棲艦らを追加。
