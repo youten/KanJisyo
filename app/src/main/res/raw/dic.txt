@@ -130,7 +130,9 @@
             {"kanji":"春風","yomi":["はるかぜ"]},
             {"kanji":"親潮","yomi":["おやしお"]},
             {"kanji":"水無月","yomi":["みなづき"]},
-            {"kanji":"浦波","yomi":["うらなみ"]}
+            {"kanji":"浦波","yomi":["うらなみ"]},
+            {"kanji":"朝風","yomi":["あさかぜ"]},
+            {"kanji":"山風","yomi":["やまかぜ"]}
         ],
         [
             {"kanji":"軽巡洋艦","group":true},
@@ -221,7 +223,8 @@
             {"kanji":"千歳甲","yomi":["ちとせ"]},
             {"kanji":"千代田甲","yomi":["ちよだ"]},
             {"kanji":"秋津洲","yomi":["あきつしま"]},
-            {"kanji":"瑞穂","yomi":["みずほ"]}
+            {"kanji":"瑞穂","yomi":["みずほ"]},
+            {"kanji":"Commandant Teste","yomi":["こまんだんてすと","コマンダン・テスト"]}
         ],
         [
             {"kanji":"軽空母","group":true},
@@ -248,7 +251,8 @@
             {"kanji":"天城","yomi":["あまぎ"]},
             {"kanji":"葛城","yomi":["かつらぎ"]},
             {"kanji":"Graf Zeppelin","yomi":["ぐらーふつぇっぺりん","グラーフ・ツェッペリン"]},
-            {"kanji":"Aquila","yomi":["あくぃら","アクィラ"]}
+            {"kanji":"Aquila","yomi":["あくぃら","アクィラ"]},
+            {"kanji":"Saratoga","yomi":["さらとが","サラトガ"]}
         ],
         [
             {"kanji":"潜水艦","group":true},
