@@ -93,7 +93,7 @@ public class MainActivity extends Activity {
     private void resetListView() {
         mSelectItemList.clear();
         mSelectItemList.addAll(mDic.groups);
-        mTitleTextView.setText(R.string.app_name);
+        mTitleTextView.setText("");
         mUpButton.setVisibility(View.INVISIBLE);
         mUpButton.setEnabled(false);
         ListView mainListView = (ListView) findViewById(R.id.main_list);
@@ -115,10 +115,7 @@ public class MainActivity extends Activity {
                     if (mDic.dic.size() > position) {
                         for (KJItem item : mDic.dic.get(position)) {
                             if (item.group) {
-                                String title = mTitleTextView.getText()
-                                        .toString();
-                                mTitleTextView
-                                        .setText(title + " " + item.kanji);
+                                mTitleTextView.setText(item.kanji);
                             } else {
                                 adapter.add(item.kanji);
                             }
@@ -144,9 +141,8 @@ public class MainActivity extends Activity {
 
         mSelectItemList.clear();
         mSelectItemList.addAll(result);
-        String appName = getResources().getString(R.string.app_name);
         String searchResult = getResources().getString(R.string.search_result);
-        mTitleTextView.setText(appName + " " + searchResult + keyword);
+        mTitleTextView.setText(searchResult + keyword);
         mUpButton.setVisibility(View.GONE);
         mUpButton.setEnabled(false);
         ListView mainListView = (ListView) findViewById(R.id.main_list);
@@ -192,5 +188,14 @@ public class MainActivity extends Activity {
         }
 
         finish();
+    }
+
+    @Override
+    public void onBackPressed() {
+        if (mUpButton.isEnabled()) {
+            resetListView();
+            return;
+        }
+        super.onBackPressed();
     }
 }

@@ -2,12 +2,12 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="wrap_content"
     android:layout_height="match_parent"
-    android:layout_marginBottom="60dp"
-    android:layout_marginLeft="40dp"
-    android:layout_marginTop="60dp"
     android:background="#c8BCAAA4"
     android:orientation="vertical"
     tools:context=".MainActivity" >
+    <!--android:layout_marginBottom="60dp"-->
+    <!--android:layout_marginLeft="40dp"-->
+    <!--android:layout_marginTop="60dp"-->
 
     <LinearLayout
         android:layout_width="match_parent"
