@@ -31,3 +31,4 @@ v28.0 浦波を追加。
 v29.0 山風・朝風・Comandant Teste・Saratogaを追加。
 v30.0 藤波・松風・伊13・伊14を追加。
 v31.0 占守・国後・択捉・神威・春日丸・大鷹・Гангутらを追加。UIレイアウトを変更。
+v32.0 天霧・狭霧・旗風・Richelieu・松輪・Luigi Torelli・Ark Royalらを追加。

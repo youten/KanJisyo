@@ -2,21 +2,12 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="21.1.2"
-        sha1="a60a5e993c98c864010053cb901b7eab25306568">
-        <dex dex="/Users/youten/work/android/KanJisyo/app/build/intermediates/pre-dexed/release/gson-2.2.4_d0ce76b63ce905fbab3c5d385c8e1b8692010f19.jar" />
-    </item>
-    <item
         is-multidex="true"
         jar="/Users/youten/work/android/KanJisyo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="2d2e0f799ed427a6c0c8dc2d3ef9e3d2ec471bfd">
+        sha1="7fcbce3a1b30b81fb00113a10c0851097a288e1c">
         <dex dex="/Users/youten/work/android/KanJisyo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bf05c27a156534b3e985f175359d06c0dd913f9c/classes.dex" />
     </item>
     <item
@@ -29,6 +20,24 @@
         <dex dex="/Users/youten/work/android/KanJisyo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_975514982dce324cf3201048db42d4b1ae83d820/classes.dex" />
     </item>
     <item
+        is-multidex="true"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/youten/work/android/KanJisyo/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.2.4_d0ce76b63ce905fbab3c5d385c8e1b8692010f19/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/youten/work/android/KanJisyo/app/build/intermediates/pre-dexed/release/gson-2.2.4_d0ce76b63ce905fbab3c5d385c8e1b8692010f19.jar" />
+    </item>
+    <item
         is-multidex="false"
         jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar"
         jumboMode="false"
@@ -43,15 +52,6 @@
         jumboMode="true"
         optimize="true"
         revision="21.1.2"
-        sha1="a60a5e993c98c864010053cb901b7eab25306568">
-        <dex dex="/Users/youten/work/android/KanJisyo/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.2.4_d0ce76b63ce905fbab3c5d385c8e1b8692010f19/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
         sha1="a60a5e993c98c864010053cb901b7eab25306568">
         <dex dex="/Users/youten/work/android/KanJisyo/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.2.4_d0ce76b63ce905fbab3c5d385c8e1b8692010f19/classes.dex" />
     </item>
