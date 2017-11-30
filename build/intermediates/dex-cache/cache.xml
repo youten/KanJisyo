@@ -7,7 +7,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="7fcbce3a1b30b81fb00113a10c0851097a288e1c">
+        sha1="6c61e0deb02d7c94f40bbd4f20fff41e7626719b">
         <dex dex="/Users/youten/work/android/KanJisyo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bf05c27a156534b3e985f175359d06c0dd913f9c/classes.dex" />
     </item>
     <item
@@ -16,7 +16,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
         <dex dex="/Users/youten/work/android/KanJisyo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_975514982dce324cf3201048db42d4b1ae83d820/classes.dex" />
     </item>
     <item
